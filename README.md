@@ -35,6 +35,11 @@
 [<img align="left" alt="jameshall8 | LinkedIn" width="35px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 [<img align="left" alt="jameshall8 | LeetCode" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LeetCode_logo_white_no_text.svg/1734px-LeetCode_logo_white_no_text.svg.png" />][leetcode]
 
+<br/>
+<br/>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jameshall8)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--LINKS-->
 [python]: https://www.python.org/about/
