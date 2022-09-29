@@ -4,7 +4,7 @@
 - Over 3 Year Software Enginnering experience both commercially and personally
 
 - 💥 2022 Summer Software Engineering Intern at The Curve
-- 💥 Software Engineer at The Curve following successful internship
+- 💥 Software Engineer at The Curve following a successful internship
 - 💥 2022 Summer Software Engineering Intern at Hive IT
 - 🎓 Going into my 2nd year - Bachelor of Computer Science student at the Sheffield Hallam University
 - 📊 Fields of interest: Software Engineering, DevOps and Web Development
