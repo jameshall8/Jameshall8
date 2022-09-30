@@ -40,8 +40,7 @@
 <br/>
 <br/>
 
-[![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=jameshall8)](https://github.com/anuraghazra/github-readme-stats)
-
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/jameshall8/langs)](https://githubtrends.io)
 
 
 <!--LINKS-->
