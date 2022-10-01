@@ -40,7 +40,7 @@
 <br/>
 <br/>
 
-(https://raw.githubusercontent.com/jameshall8/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![James Hall - Statistics](https://raw.githubusercontent.com/jameshall8/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 <!--LINKS-->
 [python]: https://www.python.org/about/
