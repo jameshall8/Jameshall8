@@ -6,7 +6,7 @@
 - 💥 2022 Summer Software Engineering Intern at The Curve
 - 💥 Software Engineer at The Curve following a successful internship
 - 💥 2022 Summer Software Engineering Intern at Hive IT
-- 🎓 Going into my 2nd year - Bachelor of Computer Science student at the Sheffield Hallam University
+- 🎓 2nd year - Bachelor of Computer Science student at the Sheffield Hallam University
 - 📊 Fields of interest: Software Engineering, DevOps and Web Development
 - 🚀 One of my 2022 goals is to further my knowlegde in software!
 
