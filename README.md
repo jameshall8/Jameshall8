@@ -40,7 +40,7 @@
 <br/>
 <br/>
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/jameshall8/langs)](https://githubtrends.io)
+![](https://raw.githubusercontent.com/jameshall8/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
 
 <!--LINKS-->
