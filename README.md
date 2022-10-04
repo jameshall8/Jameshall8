@@ -41,6 +41,7 @@
 <br/>
 
 ![James Hall - Statistics](https://raw.githubusercontent.com/jameshall8/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![James Hall - Statistics](https://raw.githubusercontent.com/jameshall8/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
 <!--LINKS-->
 [python]: https://www.python.org/about/
