@@ -3,6 +3,7 @@
 ## About
 - Over 3 Year Software Enginnering experience both commercially and personally
 
+- 💥 Software Engineer at American Express
 - 💥 2022 Summer Software Engineering Intern at The Curve
 - 💥 Software Engineer at The Curve following a successful internship
 - 💥 2022 Summer Software Engineering Intern at Hive IT
