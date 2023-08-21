@@ -3,13 +3,13 @@
 ## About
 - Over 3 Year Software Enginnering experience both commercially and personally
 
-- 💥 Software Engineer at American Express
+- 💥 2023 - Software Engineer at American Express
 - 💥 2022 Summer Software Engineering Intern at The Curve
 - 💥 Software Engineer at The Curve following a successful internship
 - 💥 2022 Summer Software Engineering Intern at Hive IT
 - 🎓 Final year - Bachelor of Computer Science student at the Sheffield Hallam University
 - 📊 Fields of interest: Software Engineering, DevOps and Web Development
-- 🚀 One of my 2022 goals is to further my knowlegde in software!
+- 🚀 One of my 2023/24 goals is to further my knowlegde in software!
 
 ## Programming Languages
 [<img align="left" alt="Java" width="35px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" />][java]
