@@ -1,13 +1,10 @@
 # Hello There! I am James. Welcome to my GitHub profile! 🎯
 
 ## About
-- Over 3 Year Software Enginnering experience both commercially and personally
+- Over 4 Year Software Enginnering experience both commercially and personally
 
 - 💥 2023 - Software Engineer at American Express
-- 💥 2022 Summer Software Engineering Intern at The Curve
-- 💥 Software Engineer at The Curve following a successful internship
-- 💥 2022 Summer Software Engineering Intern at Hive IT
-- 🎓 Final year - Bachelor of Computer Science student at the Sheffield Hallam University
+- 💥 Software Engineer at The Curve
 - 📊 Fields of interest: Software Engineering, DevOps and Web Development
 - 🚀 One of my 2023/24 goals is to further my knowlegde in software!
 
